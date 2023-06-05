@@ -1,1 +1,6 @@
-# Vagrant - or - how to code in your local computer\n## Learning Objectives\n*What is a virtual machine\n*What is Vagrant\n*Who wrote Vagrant\n*What is Ubuntu
+# Vagrant - or - how to code in your local computer
+Learning Objectives
+*What is a virtual machine
+*What is Vagrant
+*Who wrote Vagrant
+*What is Ubuntu
